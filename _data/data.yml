@@ -25,6 +25,26 @@ sidebar:
           idiom: English
           level: Professional
 
+    strengths:
+        - strength:
+          item: Honours Commitments.
+        - strength:
+          item: Great Attention to Detail.
+        - strength:
+          item: Orderly Approach to Tasks.
+        - strength:
+          item: Well Informed.
+        - strength:
+          item: Good Concentration.
+        - strength:
+          item: Perfectionist.
+        - strength:
+          item: Accuracy.
+        - strength:
+          item: High Standards
+        - strength:
+          item: Direct & Logical Approach.
+
     interests:
         - interest:
           item: Wildlife Photography
@@ -35,7 +55,6 @@ sidebar:
         - interest:
           item: Blogging
           link: https://www.code2bits.com
-
 
 career-profile:
     title: Career Profile

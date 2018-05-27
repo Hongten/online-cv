@@ -1,0 +1,13 @@
+{% if site.data.data.sidebar.strengths %}
+<div class="languages-container container-block">
+
+  <h2 class="container-block-title">Personal Strengths</h2>
+
+    <ul class="list-unstyled interests-list">
+      {%for strength in site.data.data.sidebar.strengths %}
+      <li>{{ strength.item }}</li>
+      {% endfor %}
+    </ul>
+
+</div>
+{% endif %}
