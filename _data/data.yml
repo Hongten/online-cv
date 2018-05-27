@@ -64,22 +64,17 @@ career-profile:
 
 studies:
     - education:
-      degree: MSc in Computer Science
-      university: University of London
-      time: 2011 - 2012
-      details: "Describe your study here lorem ipsum dolor sit amet, consectetuer adipiscing
-      elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et
-      magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec,
-      pellentesque eu, pretium quis, sem."
-
+      degree:
+      university: University of Pretoria
+      time: 1997 - 2000
+      details: "The BSc IT degree offers a selection of Information Technology application environments. A wide variety of computer science modules are taught, emphasizing state-of-the-art application of computer science in today's IT industry."
     - education:
-      degree: BSc in Applied Mathematics
-      university: Bristol University
-      time: 2007 - 2011
-      details: "Describe your study here lorem ipsum dolor sit amet, consectetuer adipiscing
-      elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et
-      magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec,
-      pellentesque eu, pretium quis, sem."
+      degree: Grade 12 Certificate with University Exemption
+      university: High School Piet Potgieter
+      time: 1996
+      details: "The BSc IT degree offers a selection of Information Technology application environments. A wide variety of computer science modules are taught, emphasizing state-of-the-art application of computer science in today's IT industry."
+
+
 
 
 projects:
