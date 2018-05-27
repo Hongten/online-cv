@@ -27,18 +27,14 @@ sidebar:
 
     interests:
         - interest:
-          item: Climbing
+          item: Wildlife Photography
           link:
         - interest:
-          item: Snowboarding
+          item: Mountain Biking
           link:
         - interest:
-          item: Cooking
-          link:
-
-
-
-
+          item: Blogging
+          link: www.code2bits.com
 
 
 career-profile:
