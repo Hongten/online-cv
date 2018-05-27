@@ -64,19 +64,33 @@ career-profile:
 
 studies:
     - education:
-      degree: BSc Information Technology (IT) 
+      degree: BSc Information Technology (IT)
       university: University of Pretoria
       time: 1997 - 2000
       details: "The BSc IT degree offers a selection of Information Technology application environments. A wide variety of computer science modules are taught, emphasizing state-of-the-art application of computer science in today's IT industry."
 
     - education:
-      degree: National Senior Certificate (Grade 12) with University Exemption
+      role: National Senior Certificate (Grade 12) with University Exemption
       university: High School Piet Potgieter
       time: 1996
       details: "This certificate is commonly known as the matriculation (matric) certificate, as grade 12 is the matriculation grade."
 
-
-
+experiences:
+    - experience:
+      role: Lead Solution Architect (Digital Channels)
+      company: Standard Bank
+      time: 1997 - present
+      details: "A microservices architecture style is used to provide customers with a seamless, high-quality omnichannel experience across the digital channels of Standard Bank. This is one digital experience across business segments in all African countries."
+    - experience:
+      role: Integration Architect
+      company: Standard Bank
+      time: 2009 - 2014
+      details: "I played an integral part in the creation and rollout of an integration platform across the multiple countries on the African continent. Define standards and best practices for the design, development and deployment of integration solutions."
+    - experience:
+      role: Solution Architect
+      company: Vodacom
+      time: 2007 - 2009
+      details: "My responsibilities were the analysis and design of all customer facing systems and applications within Vodacom Service Provider. I ensured that the best practices were followed and implemented through all domains."
 
 projects:
     title: Projects
