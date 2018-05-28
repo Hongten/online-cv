@@ -92,6 +92,13 @@ experiences:
       time: 2007 - 2009
       details: "My responsibilities were the analysis and design of all customer facing systems and applications within Vodacom Service Provider. I ensured that the best practices were followed and implemented through all domains."
 
+awards:
+    - award:
+      title:
+      company:
+      time:
+      details: 
+
 projects:
     title: Projects
     intro: "You can list your side projects or open source libraries in this section. Lorem ipsum dolor
