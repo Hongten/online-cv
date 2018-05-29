@@ -109,24 +109,24 @@ skills:
     title: Skills &amp; Proficiency
     skills:
         - skill:
-          name: Python & Django
-          level: 98%
+          name: Generic Skills
+          level: 94%
         - skill:
-          name: Javascript & jQuery
-          level: 98%
+          name: Enterprise Architecture
+          level: 80%
         - skill:
-          name: Angular
-          level: 98%
-        - skill:
-          name: HTML5 & CSS
+          name: Solution Architecture
           level: 95%
         - skill:
-          name: Ruby on Rails
-          level: 85%
+          name: Software Architecture
+          level: 89%
         - skill:
-          name: Sketch & Photoshop
-          level: 60%
+          name: System Integration
+          level: 91%
+        - skill:
+          name: Software Engineering
+          level: 92%
 
 
 footer:
-    text: 'Designed with <i class="fa fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a> for developers'
+    text: 'Hosted on <i class="fa github"></i>.'
