@@ -79,8 +79,13 @@ experiences:
     - experience:
       role: Lead Solution Architect (Digital Channels)
       company: Standard Bank
-      time: 1997 - present
-      details: "A microservices architecture style is used to provide customers with a seamless, high-quality omnichannel experience across the digital channels of Standard Bank. This is one digital experience across business segments in all African countries."
+      time: 2017 - present
+      details: "As the lead Solution Architect (Digital Channels), I am assisting the engineering community in the realisation of the Group Omni-Channel Platform architecture. I established and continue to improve the standards, methods, frameworks, for the way solutions are architected, designed, built and operated through collaboration with team members, subject matter experts and research houses. I am also responsible for constructing a team of solution architects (Digital Channels) and ensures a common sense of purpose by establishing the vision, intent and desired outcomes of the team."
+    - experience:
+      role: Solution Architect (Digital Channels)
+      company: Standard Bank
+      time: 2014 - 2017
+      details: "I played a vital role in translating the business strategy into a technical journey which describes the direction our engineering community should follow. This journey consisted of a Group Omni Channel Platform as the approach to solve a number of key elements within our disparate IT Channels. I worked on the target architecture adjusting details from numerous engagements with business stakeholders, CIO’s other Senior IT Staff and learnings from industry leaders."
     - experience:
       role: Integration Architect
       company: Standard Bank
@@ -90,60 +95,14 @@ experiences:
       role: Solution Architect
       company: Vodacom
       time: 2007 - 2009
-      details: "My responsibilities were the analysis and design of all customer facing systems and applications within Vodacom Service Provider. I ensured that the best practices were followed and implemented through all domains."
+      details: "My responsibilities were the analysis and design of customer facing systems and applications within Vodacom Service Provider. I ensured that the best practices were followed and implemented through all domains."
 
 awards:
     - award:
       title: Group IT - Mark of Excellence Award 2017
       company: Standard Bank
       date: May 2018
-      details: The annual Mark of Excellence Awards is a prestigious celebration of both individuals and teams who have helped Group IT move Standard Bank forward. The aim of which is meant to be aspirational and prestigious for the top performers across all of the areas within Group IT.
-
-projects:
-    title: Projects
-    intro: "You can list your side projects or open source libraries in this section. Lorem ipsum dolor
-      sit amet, consectetur adipiscing elit. Vestibulum et ligula in nunc bibendum fringilla a eu lectus."
-
-    projects:
-      - project:
-        title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
-      - project:
-        title: DevStudio
-        link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
-      - project:
-        title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
-      - project:
-        title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-      - project:
-        title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
-
-
-publications:
-    title: Publications
-    intro: "You can list your publications in this section. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum et ligula in nunc bibendum fringilla a eu lectus."
-
-    publications:
-      - paper:
-        title: The Art of Computer Programming
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
-      - paper:
-        title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
-      - paper:
-        title: A syntax directed compiler for Algol 60
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
+      details: "The annual Mark of Excellence Awards is a prestigious celebration of both individuals and teams who have helped Group IT move Standard Bank forward. The aim of which is meant to be aspirational and prestigious for the top performers across all of the areas within Group IT."
 
 
 skills:
