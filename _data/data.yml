@@ -72,12 +72,6 @@ studies:
       time: 1997 - 2000
       details: "The BSc IT degree offers a selection of Information Technology application environments. A wide variety of computer science modules are taught, emphasizing state-of-the-art application of computer science in today's IT industry."
 
-    - education:
-      degree: Grade 12 with University Exemption
-      university: High School Piet Potgieter
-      time: 1996
-      details: "This certificate is commonly known as the matriculation (matric) certificate, as grade 12 is the matriculation grade."
-
 experiences:
     - experience:
       role: Lead Solution Architect (Digital Channels)
